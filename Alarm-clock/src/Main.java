@@ -31,7 +31,7 @@ public class Main {
 
             }
 
-            System.out.println("Current time: " + dtf.format ( LocalDateTime.now( ) ) );
+            
 
             TimeUnit.SECONDS.sleep(1L);
 
